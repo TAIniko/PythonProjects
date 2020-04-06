@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/ops":{"guestpath":"/srv/ops","hostpath":"C:/Users/taisu/PycharmProjects/Udemy/PythonProjects/ops","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/taisu/PycharmProjects/Udemy/PythonProjects","disabled":false,"__vagrantfile":true}}}

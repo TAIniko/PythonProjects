@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85129650-c358-43be-9012-3159f5dd488d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="fcbc46db-bdcc-4e67-8cf3-7dd79db3f567" />
+  <component name="ProjectId" id="1ZsI2DDQJWHc9cyPE9nb5k9vUVy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ops/ansible_project/roles/webserver/files" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\taisu\PycharmProjects\Udemy\PythonProjects\ops\ansible_project\roles\webserver\files" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\taisu\PycharmProjects\Udemy\PythonProjects" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="lesson" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PythonProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85129650-c358-43be-9012-3159f5dd488d" name="Default Changelist" comment="" />
+      <created>1585621166165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585621166165</updated>
+      <workItem from="1585621171446" duration="738000" />
+      <workItem from="1585621931646" duration="648000" />
+      <workItem from="1585622607696" duration="78000" />
+      <workItem from="1585622712829" duration="161000" />
+      <workItem from="1585622896315" duration="157000" />
+      <workItem from="1585623070815" duration="6486000" />
+      <workItem from="1585725501092" duration="697000" />
+      <workItem from="1585726230307" duration="117000" />
+      <workItem from="1585786265408" duration="249000" />
+      <workItem from="1585786588352" duration="65000" />
+      <workItem from="1585789860116" duration="749000" />
+      <workItem from="1585963551380" duration="1073000" />
+      <workItem from="1585969598111" duration="873000" />
+      <workItem from="1585971342317" duration="3895000" />
+      <workItem from="1586051209321" duration="1639000" />
+      <workItem from="1586052998332" duration="50000" />
+      <workItem from="1586058523660" duration="3118000" />
+      <workItem from="1586134618231" duration="7954000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585725969201">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="96" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1585725969201" />
+    <state x="412" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586140853731">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="412" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1586140853731" />
+    <state x="376" y="126" key="EnvironmentVariablesDialog" timestamp="1585725680451">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="376" y="126" key="EnvironmentVariablesDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1585725680451" />
+    <state x="421" y="119" key="FileChooserDialogImpl" timestamp="1585726142793">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="119" key="FileChooserDialogImpl/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1585726142793" />
+    <state width="1237" height="220" key="GridCell.Tab.0.bottom" timestamp="1585969194694">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.0.bottom/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1585969194694" />
+    <state width="1237" height="220" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585880327749" />
+    <state width="1237" height="220" key="GridCell.Tab.0.center" timestamp="1585969194693">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.0.center/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1585969194693" />
+    <state width="1237" height="220" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1585880327749" />
+    <state width="1237" height="220" key="GridCell.Tab.0.left" timestamp="1585969194693">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.0.left/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1585969194693" />
+    <state width="1237" height="220" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1585880327749" />
+    <state width="1237" height="220" key="GridCell.Tab.0.right" timestamp="1585969194693">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.0.right/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1585969194693" />
+    <state width="1237" height="220" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1585880327749" />
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom" timestamp="1585969194694">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1585969194694" />
+    <state width="1237" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585880327750" />
+    <state width="1237" height="220" key="GridCell.Tab.1.center" timestamp="1585969194694">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.center/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1585969194694" />
+    <state width="1237" height="220" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1585880327750" />
+    <state width="1237" height="220" key="GridCell.Tab.1.left" timestamp="1585969194694">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.left/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1585969194694" />
+    <state width="1237" height="220" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1585880327749" />
+    <state width="1237" height="220" key="GridCell.Tab.1.right" timestamp="1585969194694">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="220" key="GridCell.Tab.1.right/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1585969194694" />
+    <state width="1237" height="220" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1585880327750" />
+    <state x="144" y="6" key="SettingsEditor" timestamp="1585726264655">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="144" y="6" key="SettingsEditor/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1585726264655" />
+    <state x="348" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586134619696">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="348" y="188" key="com.intellij.ide.util.TipDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1586134619696" />
+    <state x="348" y="188" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1585789860543" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProjects$lesson.coverage" NAME="lesson Coverage Results" MODIFIED="1585963682348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
